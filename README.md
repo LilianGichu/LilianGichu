@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LilianGichu
-- 👀 I’m interested in bridging business with technology
+- 👀 I’m interested in bridging Business with Technology
 - 🌱 I’m currently learning Odoo(ERP solution for businesses)
 - 💞️ I’m looking to collaborate on software implementation projects
 - 📫 How to reach me gichuwangechi@gmail.com
